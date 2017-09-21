@@ -1,0 +1,36 @@
+body {
+  background-color: #407CA3;
+  text-align: center;
+  font-family: 'Alegreya', serif;
+}
+h1, h2 {
+  color: #C97811;
+}
+
+#link {
+  color: #074166;
+}
+
+.content {
+  box-sizing: border-box;
+  background-color: white;
+  max-height: 800px;
+  max-width: 85%;
+  margin: 10% auto 3%;
+  border-radius: 25px;
+  padding: 2%;
+}
+
+.button {
+     background-color: #074166;
+     color: #FFFFFF;
+     border: 0;
+     padding: 10px 20px;
+     text-decoration: none;
+}
+
+.button:hover {
+     background: #FFB65B;
+     color: #000000;
+     text-decoration: none;
+}
